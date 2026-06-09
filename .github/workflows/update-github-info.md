@@ -27,7 +27,9 @@ Use these sources:
 - `notes/mona-notes.md`
 - GitHub Blog: https://github.blog/latest/
 - GitHub Changelog: https://github.blog/changelog/
+- Awesome Copilot workflows: https://awesome-copilot.github.com/workflows/
 
+Web fetch https://awesome-copilot.github.com/workflows/ and use it as an additional source for helpful workflow examples.
 Update `site/content/github-info.md` with concise, practical updates for readers.
 Include context from the GitHub Blog or GitHub Changelog when content is drawn from those sources.
 
